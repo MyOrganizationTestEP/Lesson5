@@ -8,6 +8,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hello World on GIT modified 5");
+	printf("Hello World on GIT modified 6");
 	return 0;
 }
